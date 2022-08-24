@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="mobile"><b>home</b></label>
+    <label for="home_JK"><b>home</b></label>
     <input type="text" placeholder="home address" name="home" id="home" required>
     <br>
      
@@ -35,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou from Jayakrishnan, Happy Learning </h1>
 
   
 </form>
