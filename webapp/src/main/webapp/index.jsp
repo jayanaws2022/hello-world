@@ -37,6 +37,5 @@
 
    <h1> Thankyou from Jayakrishnan you have deployed it through Ansible.  Well Done!!!, Happy Learning </h1>
    <h1> This is deployed using ansible playbook using auto build poll scm </h1>
-   <h1> Done all automated via Jenkins... Thanks for all of yours support </h1>
   
 </form>
